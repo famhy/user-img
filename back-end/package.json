@@ -9,6 +9,6 @@
   "author": "Fahmi ben zaghden",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.7.4"
+    "mongoose": "^5.7.5"
   }
 }
